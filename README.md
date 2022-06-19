@@ -1,4 +1,4 @@
-# Beginner Statistics for Data Analytics - Learn the Easy Way
+# Beginner Statistics for Data Analytics Learn the Easy Way
 
 ![[Image Desc for project]]([project image url])
 
@@ -30,7 +30,7 @@ Project based on [[Udemy Project Title]]([course-url])
 - excel
 - vba
 
-[Back To The Top](#beginner_statistics_for_data_analytics_learn_the_easy_way)
+[Back To The Top](#beginner-statistics-for-data-analytics-learn-the-easy-way)
 
 ---
 
@@ -51,7 +51,7 @@ I am currently not accepting contributions to this project, however feel free to
 
 The current status of this project is in development.
 
-[Back To The Top](#beginner_statistics_for_data_analytics_learn_the_easy_way)
+[Back To The Top](#beginner-statistics-for-data-analytics-learn-the-easy-way)
 
 ---
 
@@ -78,7 +78,7 @@ Please see [GitHub’s](https://docs.github.com/en/github/site-policy/dmca-taked
 <dmca>
 -->
 
-[Back To The Top](#beginner_statistics_for_data_analytics_learn_the_easy_way)
+[Back To The Top](#beginner-statistics-for-data-analytics-learn-the-easy-way)
 
 ---
 
@@ -89,5 +89,5 @@ Please see [GitHub’s](https://docs.github.com/en/github/site-policy/dmca-taked
 - Twitter – [@LundeenBryan](https://twitter.com/LundeenBryan)
 - Facebook – [realbryanlundeen](https://www.facebook.com/realbryanlundeen)
 
-[Back To The Top](#beginner_statistics_for_data_analytics_learn_the_easy_way)
+[Back To The Top](#beginner-statistics-for-data-analytics-learn-the-easy-way)
 
