@@ -36,10 +36,26 @@ Project based on [[Udemy Project Title]]([course-url])
 
 ## Time Tracking
 
-## Sunday 19 June
+## Monday 27 June
 
-- `11:19` //_Good morning_
+| Time span          | Task               |
+| -----------------: | ------------------ |
+|          `05:00`   | statistics_project |
+|        **`05:00`** | **Total**          |
 
+## Tuesday 28 June
+
+| Time span          | Task               |
+| -----------------: | ------------------ |
+|          `05:00`   | statistics_project |
+|        **`05:00`** | **Total**          |
+
+## Wednesday 29 June
+
+| Time span          | Task               |
+| -----------------: | ------------------ |
+|          `05:00`   | statistics_project |
+|        **`05:00`** | **Total**          |
 
 ---
 
